@@ -6,4 +6,5 @@ public class App2 {
 	
 	// 2nd. comment
 
+	// 3st. comment
 }
